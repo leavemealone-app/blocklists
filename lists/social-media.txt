@@ -1,0 +1,18 @@
+! Title: Social Media 
+! Summary: Blocks emails from Facebook, Instagram, LinkedIn, Twitter and more.
+! Description: Blocks emails from popular social media channels, Facebook, Instagram, LinkedIn, Twitter and more.
+!
+! License: http://creativecommons.org/licenses/by/3.0/
+! Homepage: https://github.com/leavemealone-app/blocklists
+
+facebookmail.com
+twitter.com
+linkedin.com
+mail.instagram.com
+medium.com
+youtube.com
+inspire.pinterest.com
+producthunt.com
+indiehackers.com
+twitch.tv
+snapchat.com
