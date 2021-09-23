@@ -8,11 +8,12 @@
 facebookmail.com
 twitter.com
 linkedin.com
-mail.instagram.com
+instagram.com
 medium.com
 youtube.com
-inspire.pinterest.com
+pinterest.com
 producthunt.com
 indiehackers.com
 twitch.tv
 snapchat.com
+dribbble.com
